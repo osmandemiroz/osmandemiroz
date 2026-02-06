@@ -1,6 +1,7 @@
 <div align="center">
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+![Uploading closer_phone.gif…]()
+
 
   <br/>
 
@@ -14,15 +15,4 @@
   </a>
 
 </div>
-
----
-
-###  About Me
-
-I am a developer with a passion for building scalable solutions and exceptional user interfaces. Whether it's crafting mobile apps, web platforms, or backend services, I focus on writing clean code and sharing my journey with the community.
-
--  currently working on **innovative software projects**
--  currently learning **advanced architectural patterns**
--  regularly write articles on **Medium**
-
 
